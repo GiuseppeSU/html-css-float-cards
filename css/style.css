@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    width: 50%;
+} 
+
+.text{
+    text-align: center;
+    font-style: serif;
+    margin-top: 30px;
+    color:rgb(253, 136, 247);
+    font-weight: bolder;
+    margin-bottom: 40px;
+
+}
+
+p{
+    text-align: center;
+    
+}
