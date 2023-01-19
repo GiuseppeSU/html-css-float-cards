@@ -23,3 +23,11 @@ p{
     text-align: center;
     
 }
+
+.container{
+  float: left;
+  border: solid 1px red;
+  width: 300px;
+  height: 100px;
+  margin-top: 50px;
+}
