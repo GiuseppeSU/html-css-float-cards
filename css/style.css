@@ -7,7 +7,8 @@
 body{
     margin: 0 auto;
      width: 50%;
-}  
+    
+    }  
 main{
     
     margin: auto;
@@ -16,9 +17,10 @@ main{
 }
 .text{
     text-align: center;
-    font-style: serif;
+    font-family: 'Fredoka', sans-serif;
+    
     margin-top: 30px;
-    color:rgb(253, 136, 247);
+    color:#e53170;
     font-weight: bolder;
     margin-bottom: 40px;
 
